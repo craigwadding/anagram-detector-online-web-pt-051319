@@ -16,3 +16,4 @@ class Anagram
   
 end
 
+listen = Anagram.new("listen")
